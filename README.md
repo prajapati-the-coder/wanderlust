@@ -1,5 +1,4 @@
-**Wanderlust**
-Welcome to Wanderlust, a project developed by me. This project is designed to assist travel enthusiasts in planning their adventures and exploring new destinations. Wanderlust provides features to discover places, create itineraries, and connect with fellow travelers.
+Welcome to **Wanderlust**, a project developed by me. This project is designed to assist travel enthusiasts in planning their adventures and exploring new destinations. Wanderlust provides features to discover places, create itineraries, and connect with fellow travelers.
 
 **Features**
 **Explore Destinations**: Browse through a curated collection of destinations around the world.
@@ -31,9 +30,10 @@ To run this project locally, follow these steps:
     CLOUD_API_KEY=your_cloud_API_KEY
     CLOUD_API_SECRET=your_cloud_api_secret_key
     MAP_TOKEN=your_mapbox_token
-Replace your_cloud_name, your_cloud_API_KEY, your_cloud_api_secret_key and your_mapbox_token with your actual cloud details, and MAPBOX token respectively.
+   
+   Replace your_cloud_name, your_cloud_API_KEY, your_cloud_api_secret_key and your_mapbox_token with your actual cloud details, and MAPBOX token respectively.
 
-4. Start the Server:
+5. Start the Server:
    node app.js
 
 5.Access the Application:
